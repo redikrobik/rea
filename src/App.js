@@ -31,7 +31,7 @@ constructor() {
   <Container>
     <Row>
       <Col md={4} sm={4}>
-        <h3>Узнай про его отпуск</h3>
+        <h3>Узнай про его отпуск!!</h3>
         <Nav
           bsStyle="pills"
           stacked
